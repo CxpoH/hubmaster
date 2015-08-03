@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--AppString-->
+    <string name="app_name">Hub-head</string>
+
+    <!--Words-->
+    <string name="word_or">или</string>
+    <string name="word_notifications">Уведомления</string>
+    <string name="word_overview">Напоминания</string>
+    <string name="word_undefined">Неизвестно</string>
+    <string name="word_task">Задача</string>
+    <string name="word_sphere">Сфера</string>
+    <string name="word_select_circle">Выберите круг</string>
+    <string name="label" msgid="162189613902857319">"Описание"</string>
+    <string name="alarm_repeat">Повтор</string>
+    <string name="alarm_vibrate">Виброзвонок</string>
+    <string name="word_delete">Удалить</string>
+</resources>
